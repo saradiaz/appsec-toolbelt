@@ -4,6 +4,8 @@
         "es6": true,
         "node": true
     },
+    //uncomment this line if you are getting errors like "Parsing error: Unexpected token"
+    //"parser": "babel-eslint",
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
