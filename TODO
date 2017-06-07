@@ -1,0 +1,3 @@
+#common pitfalls
+#appsec baseline (the never-dos: hardcoded secrets, vulnerable dependencies, etc)
+#best practices for common services and platforms(aws, docker, heroku)
