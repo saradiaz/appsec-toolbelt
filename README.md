@@ -1,2 +1,6 @@
 # security-baseline
-The basic dos, don'ts, and shoulds of secure application development
+Basic tools for secure application development.  
+
+Resources are organized by techstack. 
+
+More to come :), Feedback encouraged.

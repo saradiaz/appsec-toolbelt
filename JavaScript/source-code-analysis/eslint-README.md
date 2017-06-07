@@ -1,15 +1,15 @@
-###To install eslint and plugins used in this eslint config file:
+###To install eslint and plugins used in [this eslint config file](https://github.com/saradiaz/security-baseline/blob/master/JavaScript/source-code-analysis/.eslintrc.json):
 
 note: -D is --save-dev
 
-`npm install -D eslint`  
-`npm install -D eslint-plugin-security`  
-`npm install -D eslint-plugin-scanjs-rules`  
-`npm install -D eslint-plugin-no-unsafe-innerhtml`  
+`$ npm install -D eslint`  
+`$ npm install -D eslint-plugin-security`  
+`$ npm install -D eslint-plugin-scanjs-rules`  
+`$ npm install -D eslint-plugin-no-unsafe-innerhtml`  
 
 ###Once you've done this, you can either
 * use the .eslintrc.json as-is from this repo
-* run `eslint --init`* with your project-specific details and include the plugins and rules from our config file*  
+* run `$ eslint --init`* with your project-specific details and include the plugins and rules from our config file*  
 
 	*if you are using the eslint specific to your project, you might have to run `./node_modules/eslint/bin/eslint.js --init`
 	
@@ -17,12 +17,12 @@ note: -D is --save-dev
 	
 
 ###One more thing...
-You might want to create a file called .eslintignore (or something) containing the line `node_modules/`. You can then specify the option --ignore-path .eslintignore when you run eslint. This will save you a lot of false positives. 
+You might want to create a file called .eslintignore (or something) containing the line `$ node_modules/`. You can then specify the option --ignore-path .eslintignore when you run eslint. This will save you a lot of false positives. 
 
 ###You're ready to go!
 For a quick start, try:  
-`eslint .`
+`$ eslint .`
 
 To create an HTML output file you can view in your browser, try:  
-`eslint --ignore-path .eslintignore -f html -o eslint-report.html .`
+`$ eslint --ignore-path .eslintignore -f html -o eslint-report.html .`
 
