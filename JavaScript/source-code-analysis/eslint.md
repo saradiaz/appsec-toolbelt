@@ -1,3 +1,4 @@
+
 ###To install eslint and plugins used in [this eslint config file](https://github.com/saradiaz/security-baseline/blob/master/JavaScript/source-code-analysis/.eslintrc.json):
 
 note: -D is --save-dev
@@ -27,4 +28,5 @@ For a quick start, try:
 
 To create an HTML output file you can view in your browser, try:  
 `$ eslint --ignore-path .eslintignore -f html -o eslint-report.html .`
+
 

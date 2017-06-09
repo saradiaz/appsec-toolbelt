@@ -22,3 +22,7 @@ By default, the HTML report will be saved to whatever directory you are in when 
 
 ###Documentation
 The full documentation and the latest downloads can be found at: <https://jeremylong.github.io/DependencyCheck/index.html> 
+
+###CI Integration
+Some basic best practices/guidelines for adding OWASP Dependency Check to your CI pipeline can be found here:  
+<https://github.com/cairnsc/security-playbook/blob/master/tooling/dependency-checker/owasp-dependency-check.md>
