@@ -26,4 +26,4 @@ You can customize the config file, and even specify mulitple config files at run
 
 You can also specify `inherit_from` in your .rubocop.yml config file. You can inherit from other files in your project, as well as a remote URL. 
 
-//TODO: provide recommended .rubocop.yml
+//TODO: provide recommended .rubocop.yml and CI integration
