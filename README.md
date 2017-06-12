@@ -5,7 +5,7 @@ Resources are organized by techstack. Because of this, you may find some duplica
 
 All tools are free and open source. (June 8th, 2017)
 
-More to come :), Feedback encouraged.
+More to come :), Feedback encouraged.  
 
 [Check out our Java resources](https://github.com/saradiaz/appsec-toolbelt/tree/master/Java)  
 
@@ -18,3 +18,4 @@ More to come :), Feedback encouraged.
 [Checkout our resources that are compatible with any language](https://github.com/saradiaz/appsec-toolbelt/tree/master/LanguageAgnostic)
 
 We're still working on it! [Checkout our TODO](https://github.com/saradiaz/appsec-toolbelt/blob/master/TODO)
+
