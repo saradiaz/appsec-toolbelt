@@ -22,6 +22,7 @@ I don't think you need to be scared into not checking secrets in -- you probably
 * [AWS Parameter Store][param-store]
 * If you need to keep the secrets in your code, you can use [gitcrypt][gitcrypt-repo] to encrypt sensitive files on commit. 
 
+
 [facepalm commit messages]: https://github.com/search?utf8=%E2%9C%93&q=add+secret+key&type=Commits
 
 [credstash-details]: https://github.com/fugue/credstash#how-does-it-work
@@ -36,3 +37,20 @@ I don't think you need to be scared into not checking secrets in -- you probably
 
 [go-envs]: https://docs.gocd.org/15.3.0/faq/dev_use_current_revision_in_build.html
 
+## Use a Dependency Checker
+Using components with known vulnerabilities is a [widespread and serious problem][owasp-a9] in application development. It can lead to easy, scannable vulnerabilities in your app. Recommended tools for a variety of languages are provided elsewhere in this project:  
+
+* [Ruby]
+* [Java]
+* [JavaScript]
+* [Python]
+
+[owasp-a9]: https://www.owasp.org/index.php/Top_10_2013-A9-Using_Components_with_Known_Vulnerabilities
+
+[Ruby]: https://github.com/saradiaz/appsec-toolbelt/blob/master/Ruby/dependency-checkers.md
+
+[Java]: https://github.com/saradiaz/appsec-toolbelt/blob/master/Java/dependency-check.md
+
+[JavaScript]: https://github.com/saradiaz/appsec-toolbelt/tree/master/JavaScript/dependency-checking
+
+[Python]: https://github.com/saradiaz/appsec-toolbelt/blob/master/Python/dependency-check.md
