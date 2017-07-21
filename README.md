@@ -3,7 +3,7 @@ Basic tools for secure application development.
 
 Resources are organized by techstack. Because of this, you may find some duplicate files.  
 
-All tools are free and open source. (June 12th, 2017)
+All tools are free and open source. (July 20th, 2017)
 
 More to come :), Feedback encouraged.  
 
