@@ -19,5 +19,5 @@ More to come :), Feedback encouraged.
 
 [Checkout our resources that are compatible with any language](https://github.com/saradiaz/appsec-toolbelt/tree/master/LanguageAgnostic)
 
-We're still working on it! [Checkout our TODO](https://github.com/saradiaz/appsec-toolbelt/blob/master/TODO)
+We're still working on it! [Checkout our TODO](https://github.com/saradiaz/appsec-toolbelt/blob/master/TODO.md)
 
