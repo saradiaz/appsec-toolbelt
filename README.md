@@ -7,17 +7,17 @@ All tools are free and open source. (July 20th, 2017)
 
 More to come :), Feedback encouraged.  
 
-[Checkout our Security Baseline](https://github.com/saradiaz/appsec-toolbelt/tree/master/BestPractices/security-baseline.md)
+[Checkout our Security Baseline](security-baseline.md)
 
-[Checkout our Java resources](https://github.com/saradiaz/appsec-toolbelt/tree/master/Java)  
+[Checkout our Java resources](Java)  
 
-[Checkout our JS resources](https://github.com/saradiaz/appsec-toolbelt/tree/master/JavaScript)  
+[Checkout our JS resources](JavaScript)  
 
-[Checkout our Ruby resources](https://github.com/saradiaz/appsec-toolbelt/tree/master/Ruby)  
+[Checkout our Ruby resources](Ruby)  
 
-[Checkout our Python resources](https://github.com/saradiaz/appsec-toolbelt/tree/master/Python)  
+[Checkout our Python resources](Python)  
 
-[Checkout our resources that are compatible with any language](https://github.com/saradiaz/appsec-toolbelt/tree/master/LanguageAgnostic)
+[Checkout our resources that are compatible with any language](LanguageAgnostic)
 
-We're still working on it! [Checkout our TODO](https://github.com/saradiaz/appsec-toolbelt/blob/master/TODO.md)
+We're still working on it! [Checkout our TODO](TODO.md)
 
