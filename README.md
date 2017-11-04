@@ -7,7 +7,7 @@ All tools are free and open source. (July 20th, 2017)
 
 More to come :), Feedback encouraged.  
 
-[Checkout our Security Baseline](security-baseline.md)
+[Checkout our Security Baseline](BestPractices/security-baseline.md)
 
 [Checkout our Java resources](Java)  
 
