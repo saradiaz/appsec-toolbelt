@@ -1,5 +1,5 @@
 # Security Baseline
-Making a bullet-proof app is probably not feasible, and depending on what your app does, certain security measures might be even be overkill.
+Making a bullet-proof app is probably not feasible, and depending on what your app does, certain security measures might even be overkill.
 
 To make covering the basics easy, here's a set of guidelines that likely apply to your project:  
 
