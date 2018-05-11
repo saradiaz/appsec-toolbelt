@@ -2,7 +2,7 @@
 Node Security Project (nsp) checks the dependencies in your project's package.json against libraries of known vulnerabilities. If your project uses vulnerable versions of a dependency, it will let you know and provide helpful details.
 
 ### Installation
-`$ npm install --save-dev nsp`
+`$ npm install -g --save-dev nsp`
 
 ### Usage
 Running `$ nsp check` inside your project will generate a well formatted report in stdout
