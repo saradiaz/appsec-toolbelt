@@ -3,10 +3,10 @@
 
 note: -D is --save-dev
 
-`$ npm install -D eslint`  
-`$ npm install -D eslint-plugin-security`  
-`$ npm install -D eslint-plugin-scanjs-rules`  
-`$ npm install -D eslint-plugin-no-unsafe-innerhtml`  
+`$ npm install -g -D eslint`  
+`$ npm install -g -D eslint-plugin-security`  
+`$ npm install -g -D eslint-plugin-scanjs-rules`  
+`$ npm install -g -D eslint-plugin-no-unsafe-innerhtml`  
 
 ### Once you've done this, you can either
 * use the .eslintrc.json as-is from this repo
