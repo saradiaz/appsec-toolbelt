@@ -19,7 +19,10 @@ note: -D is --save-dev
 
 ### One more thing...
 You might want to create a file called .eslintignore (or something) containing the line  
-`node_modules/`.  
+`node_modules/`.  Or run the following line.
+
+`$ echo 'node_modules/' > .eslintignore`
+
 You can then specify the option --ignore-path .eslintignore when you run eslint. This will save you a lot of false positives. 
 
 ### You're ready to go!
